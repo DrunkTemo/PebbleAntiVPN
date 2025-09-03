@@ -7,7 +7,7 @@
     <parent>
         <groupId>PebbleAntiVPN</groupId>
         <artifactId>PebbleAntiVPN</artifactId>
-        <version>1.5</version>
+        <version>1.6</version>
     </parent>
 
     <artifactId>PebbleAntiVPN-common</artifactId>

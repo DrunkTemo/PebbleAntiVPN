@@ -7,7 +7,7 @@ import org.slf4j.Logger;
 @Plugin(
         id = "pebbleantivpn",
         name = "PebbleAntiVPN",
-        version = "1.5",
+        version = "1.6",
         description = "Block any type of <Tor/Proxy/VPNs>",
         authors = {"Binkie"}
 )
